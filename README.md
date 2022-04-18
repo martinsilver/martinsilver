@@ -1,6 +1,6 @@
 ## My name is Martin Silva  🐱‍👤 🇧🇷
 
-- I'm a web developer, I'm studying fullstack web development at Tryb
+- I'm a web developer, I'm studying fullstack web development at Trybe
 - 🚧...
 
 
