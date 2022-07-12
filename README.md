@@ -43,12 +43,5 @@ Olá, me chamo **Martin Silva**, Sou Potiguar de Nascimento e Sou Amapaense de C
 </p>
 
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=martinsilver&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="martinsilver" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsilver&layout=compact&theme=graywhite&title_color=268bd2" alt="martinsilver" />
-</p>
-
 <br />
 <br />
