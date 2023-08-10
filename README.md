@@ -16,8 +16,7 @@ Olá, me chamo **Martin Silva**, Sou Potiguar de Nascimento e Sou Amapaense de C
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 👨🏽‍💻 Estou estudando testes em backend com **Jest** que é um framework de testes em **Node.js**;
-- 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
+- 👨🏽‍💻 Apaixonado pot testes em backend com **Jest** que é um framework de testes em **Node.js**;
 - 🤔 Meus hobbies são ver video do Fabio akita e fica no discord  <img alt="PNG" src="https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png" width="20px" /> com amigos ;
 - 💼 O conhecimento tem o fim em si mesmo, mas que ajudar na carreira profissional, [Bacon](https://www.pensador.com/frase/MTk2NDkwNA/);
 - 💬 Pergunte-me sobre qualquer coisa, adoro tenta entender o mundo;
